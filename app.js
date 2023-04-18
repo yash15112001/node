@@ -14,5 +14,5 @@ console.log(__filename);
 // console.log(module);
 // console.log(process);
 
-setInterval(()=>{console.log("Hello world.");},200)
+// setInterval(()=>{console.log("Hello world.");},200)
 console.log("i will come before");
