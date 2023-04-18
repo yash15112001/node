@@ -43,4 +43,4 @@ console.log("after operation");
 // output of this .js file should be : before operation after operation this is data file content during operation
 
 // alternatives for avoiding these types of nesting -> using async await funtions and promises
-// promises/async-await
+// promises/async-await 
